@@ -1,5 +1,5 @@
 <?php
 
-echo 'hi..from test';
+echo 'hi..from test cool new feature';
 
 ?>
